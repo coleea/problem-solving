@@ -1,1 +1,1 @@
-# HackerRank Solution
+# PS-Solution
