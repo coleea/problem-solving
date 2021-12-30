@@ -13,6 +13,8 @@
 
 # introduction to algorithms 간단요약 (2nd edition, 한글판)
 
+<img src="./img/ital_logo.jpg" width="200px">
+
 영어판 출판사 : The MIT Press (발간일 2001년 9월 1일)  
 한글판 출판사 : 한빛미디어 (발간일 2005년 5월 13일)  
 
